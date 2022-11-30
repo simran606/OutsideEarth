@@ -1,3 +1,5 @@
+Welcome to Outside Earth, the ultimate online platform for space exploration! We provide a one-stop destination for everything related to space - from blogs, books, and videos to astronauts, space centres, quizzes, and games. Whether you’re a space enthusiast or a budding astronaut, we have something for everyone. Explore our vast selection of space-related content and get to know the mysteries of the universe. Enjoy the adventure of space exploration with Outside Earth!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
